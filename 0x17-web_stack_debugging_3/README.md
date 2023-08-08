@@ -1,1 +1,1 @@
-web_stack debugging
+Web stack debugging solutions
